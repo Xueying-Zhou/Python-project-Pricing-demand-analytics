@@ -1,5 +1,8 @@
 # 🚖 Pricing & Demand Analytics
 
+🔗 **Live Report:**  
+[View Interactive Analysis](https://xueying-zhou.github.io/Python-project-Pricing-demand-analytics/)
+
 Applied econometric modeling and clustering-based demand estimation in Python.
 
 ---
